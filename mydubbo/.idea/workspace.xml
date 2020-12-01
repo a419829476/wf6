@@ -186,7 +186,7 @@
       <updated>1606374070301</updated>
       <workItem from="1606374078176" duration="4750000" />
       <workItem from="1606457146184" duration="4089000" />
-      <workItem from="1606783511475" duration="992000" />
+      <workItem from="1606783511475" duration="1874000" />
     </task>
     <servers />
   </component>
@@ -205,10 +205,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1606784162728">
+    <state x="641" y="241" key="RollbackChangesDialog" timestamp="1606784747134">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1606784162728" />
+    <state x="641" y="241" key="RollbackChangesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1606784747134" />
+    <state x="518" y="278" key="Vcs.Push.Dialog.v2" timestamp="1606784786213">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="518" y="278" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1606784786213" />
     <state x="713" y="327" key="git4idea.merge.GitPullDialog" timestamp="1606784196650">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
