@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mydubbo.provider2" />
+        <module name="mydubbo.provider" />
         <module name="mydubbo.common" />
         <module name="mydubbo.consumer" />
-        <module name="mydubbo.provider" />
-        <module name="mydubbo.provider2" />
       </profile>
     </annotationProcessing>
   </component>
