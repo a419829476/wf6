@@ -20,6 +20,7 @@
             <artifactId>dubbo-spring-boot-starter</artifactId>
             <version>0.2.0</version>
         </dependency>
+        <!--11111-->
         <dependency>
             <artifactId>mydubbo.common</artifactId>
             <groupId>com.zb</groupId>
