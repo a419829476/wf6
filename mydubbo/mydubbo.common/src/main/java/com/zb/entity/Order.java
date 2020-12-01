@@ -3,6 +3,7 @@ package com.zb.entity;
 import java.io.Serializable;
 
 public class Order implements Serializable {
+    //AAAAA
     private Integer id;
     private String title;
     private Integer uid;
