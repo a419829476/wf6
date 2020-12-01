@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Order implements Serializable {
     //AAAAA
+    //bbbb
     private Integer id;
     private String title;
     private Integer uid;
